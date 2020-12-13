@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
-collections:
-  posts:
-    output: true
+## Setup
+title:            Sergey's blog 
+tagline:          'Tagline'
+description:      'Description'
