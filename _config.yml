@@ -28,7 +28,7 @@ sass:
 
 page_list:
   About: '/about'
-  Home: '/index'
+  Home: '/'
 
 # Options
 
