@@ -15,11 +15,9 @@
           {% endif %}
 ## Pages
 {% for page in site.page_list %}
-{{ page }}
-{% endfor %}
-## Recent posts
-{% for post in site.posts limit:4 %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+    <a href="{{ post.url }}" class="previous">
+      {{ post.title }}
+    </a>
 {% endfor %}
 
         </aside>
