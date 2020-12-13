@@ -4,11 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-## Welcome to About 
-
-You can use the [editor on GitHub](https://github.com/sergshk/sergshk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Sergey's blog 
 
 ## Blog Posts
 
@@ -17,6 +13,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 {% endfor %}
 
 # Posts
+{% for post in site.posts %}
+## {{ post.title }}
+{{ post.content }}
+{% endfor %}
 
 <div class="posts">
   {% for post in paginator.posts %}
