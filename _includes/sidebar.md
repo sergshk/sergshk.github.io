@@ -19,5 +19,12 @@
       {{ post.title }}
     </a>
 {% endfor %}
+## Archive 
+{% for post in site.posts %}
+    <a href="{{ post.url }}" class="previous">
+      {{ post.title }}
+    </a>
+{% endfor %}
+
 
         </aside>
