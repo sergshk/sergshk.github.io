@@ -2,6 +2,7 @@
 title: Sergey's blog
 tagline: Tagline 
 paginate: 3
+paginate_path: "/archive/page:num/"
 baseurl: ""
 permalink: pretty
 theme: jekyll-theme-architect
