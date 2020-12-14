@@ -9,9 +9,9 @@ permalink: /
 Place holder for description of this blog
 
 {% for post in site.posts limit:4 %}
-## [ {{ post.title }} ]({{ post.url }}) 
+# [ {{ post.title }} ]({{ post.url }}) 
 {{ post.date | date_to_string }}  
-{{ post.content }}
+{{ post.excerpt }}
 {% endfor %}
 
 [Read more](/archive/index.html)

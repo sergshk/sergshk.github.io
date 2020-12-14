@@ -6,6 +6,7 @@ paginate_path: "/archive/page:num/"
 baseurl: ""
 permalink: pretty
 theme: jekyll-theme-architect
+excerpt_separator: <!--more-->
 
 # Gems
 plugins:

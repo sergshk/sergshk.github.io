@@ -28,5 +28,5 @@
 
 
         </aside>
-        <a href="https://social.ssbx.dev/@archit3ct" class="button"><small>Follow me on</small> Mastodon</a>
+<!--        <a href="https://social.ssbx.dev/@archit3ct" class="button"><small>Follow me on</small> Mastodon</a> -->
 		</div>
