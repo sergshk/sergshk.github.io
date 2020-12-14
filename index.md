@@ -4,18 +4,14 @@ title: "Home"
 permalink: /
 ---
 
-## Welcome to Sergey's blog 
+# Welcome to Sergey's blog 
 
-### Page number
-{{ paginator.page }}
+Place holder for description of this blog
 
-### Posts per page 
-{{ paginator.per_page }}
+{% for post in site.posts limit:4 %}
+  ## [ {{ post.title }} ]({{ post.url }}) 
+  {{ post.date | date_to_string }}  
+  {{ post.content }}
+{% endfor %}
 
-### Posts current page 
-{{ paginator.posts }}
-
-### Posts total 
-{{ paginator.total_posts }}
-
-
+[Read more](/archive/index.html)

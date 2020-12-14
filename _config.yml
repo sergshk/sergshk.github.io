@@ -28,6 +28,7 @@ sass:
 page_list:
   About: '/about'
   Home: '/'
+  Archive: '/archive/index.html'
 
 # Options
 
