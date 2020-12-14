@@ -14,14 +14,12 @@
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
-# Pages
 {% for page in site.page_list %}
     <a href="{{ page[1] }}" class="previous">
-      PP{{ page[0] }}
+      {{ page[0] }}
     </a>
 {% endfor %}
-
-## Posts 
+</br></br>
 {% for post in site.posts %}
     <a href="{{ post.url }}" class="previous">
       {{ post.title }}
@@ -30,4 +28,5 @@
 
 
         </aside>
+        <a href="https://social.ssbx.dev/@archit3ct" class="button"><small>Follow me on</small> Mastodon</a>
 		</div>

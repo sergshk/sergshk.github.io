@@ -26,8 +26,8 @@ sass:
   style: :compressed
 
 page_list:
-  About: '/about'
   Home: '/'
+  About: '/about'
   Archive: '/archive/index.html'
 
 # Options
