@@ -2,6 +2,7 @@
 layout: post 
 title:  "Care does not scale!"
 ---
+
 I have been thinking about life cycle of a typical software startup, and what startups facing as they are trying to scale. So I stumbled upon a very controversial statement which I think might be the answer for many companies as they grow. "Care does not scale". So let me explain myself. 
 <!--more-->
 Typically any software startup begins with couple developers and maybe some business people to get business running. There are no customer care, there are no product development, there are no sales. Just couple people who believe in their idea and truthfully thinking that they can change world and make other people's life easier. That's the core of newly formed company. They have no money, they work long hours and they truly care about their customer. Those developers working directly with first users of their system and they doing their best to make those users happy. That is one really big distinguishing factor of any successful startup: those developers do care about their customers, they truly want to do their best, not because of that mythical pay-off one day, but because they care. There is that intimate, if you will, connection between people who building system and those who are using it. 
