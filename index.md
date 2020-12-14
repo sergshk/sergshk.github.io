@@ -12,6 +12,7 @@ Place holder for description of this blog
 # [ {{ post.title }} ]({{ post.url }}) 
 {{ post.date | date_to_string }}  
 {{ post.excerpt }}
+[ Read more ... ]({{ post.url }}) 
 {% endfor %}
 
-[Read more](/archive/index.html)
+[Older Posts](/archive/index.html)
