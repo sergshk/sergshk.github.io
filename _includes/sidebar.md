@@ -14,20 +14,19 @@
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
             <a href="https://social.ssbx.dev/@archit3ct" class="button">
-              <small>Follow</small> on Mastodon
+              <small>Follow me on</small>Mastodon
             </a>
 {% for page in site.page_list %}
-    <a href="{{ page[1] }}" class="previous">
+   <p class="repo-owner"> <a href="{{ page[1] }}" class="previous">
       {{ page[0] }}
-    </a>
+    </a></p>
 {% endfor %}
-</br></br>
-{% for post in site.posts %}
-    <a href="{{ post.url }}" class="previous">
-      {{ post.title }}
-    </a>
+<p class="repo-owner">Posts:</p>
+{% for post in site.posts limit:20 %}
+    <p style="margin-bottom: 0px"><a href="{{ post.url }}" class="previous">
+      {{ post.date | date_to_string }} - {{ post.title }}
+    </a></p>
 {% endfor %}
 
 
         </aside>
-<!--        <a href="https://social.ssbx.dev/@archit3ct" class="button"><small>Follow me on</small> Mastodon</a> -->
