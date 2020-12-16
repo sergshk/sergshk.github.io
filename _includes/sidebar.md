@@ -1,4 +1,3 @@
-		<div>
         <aside id="sidebar">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
@@ -14,6 +13,9 @@
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
+            <a href="https://social.ssbx.dev/@archit3ct" class="button">
+              <small>Follow</small> on Mastodon
+            </a>
 {% for page in site.page_list %}
     <a href="{{ page[1] }}" class="previous">
       {{ page[0] }}
@@ -29,4 +31,3 @@
 
         </aside>
 <!--        <a href="https://social.ssbx.dev/@archit3ct" class="button"><small>Follow me on</small> Mastodon</a> -->
-		</div>
