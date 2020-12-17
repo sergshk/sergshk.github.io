@@ -4,15 +4,15 @@ title: "Home"
 permalink: /
 ---
 
-# Welcome to Sergey's blog 
+## Thoughts of technology entrepreneur
 
-Place holder for description of this blog
+*Welcome to my blog. I write about technology, business, regulations and everything in between, mostly focusing on how various aspects applicable to software development and cybersecurity.*
 
 {% for post in site.posts limit:4 %}
 # [ {{ post.title }} ]({{ post.url }}) 
-{{ post.date | date_to_string }}  
+*{{ post.date | date_to_string }}*
 {{ post.excerpt }}
 [ Read more ... ]({{ post.url }}) 
 {% endfor %}
 
-[Older Posts](/archive/index.html)
+[All Posts](/archive/index.html)

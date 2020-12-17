@@ -1,6 +1,6 @@
 # Setup
 title: Sergey's blog
-tagline: Tagline 
+tagline: Thoughts of technology entrepreneur 
 paginate: 3
 paginate_path: "/archive/page:num/"
 baseurl: ""
@@ -29,7 +29,7 @@ sass:
 page_list:
   Home: '/'
   About: '/about'
-  Archive: '/archive/index.html'
+  All Posts: '/archive/index.html'
 
 # Options
 
