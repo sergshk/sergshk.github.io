@@ -17,9 +17,11 @@ Sergey Shkundaleu is an experienced technology entrepreneur, founder and CEO of 
 ### Other Social Media Accounts:
 
 **LinkedIn** [SergeyShkundaleu](https://www.linkedin.com/in/sergeyshkundaleu/) 
+
 **Twitter:** [@serj_shk](https://twitter.com/serj_shk) 
 
 ## Other Contact Information
 
 **Phone:** 507-2-IONTEC
+
 **Email:** sergey at iontec.org 
