@@ -12,15 +12,14 @@ Sergey Shkundaleu is an experienced technology entrepreneur, founder and CEO of 
 
 ### Main Social Media Account:
 
-Mastodon Network - 
+**Mastodon:** [@archit3ct@social.ssbx.dev](https://social.ssbx.dev/@archit3ct)  
 
 ### Other Social Media Accounts:
 
-LinkedIn - 
-Twitter - 
+**LinkedIn** [SergeyShkundaleu](https://www.linkedin.com/in/sergeyshkundaleu/) 
+**Twitter:** [@serj_shk](https://twitter.com/serj_shk) 
 
 ## Other Contact Information
 
-Skype: sergey.shkundalew
-Phone: 507-2-IONTEC
-Email: sergey at iontec.org 
+**Phone:** 507-2-IONTEC
+**Email:** sergey at iontec.org 
