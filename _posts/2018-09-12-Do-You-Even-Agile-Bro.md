@@ -6,11 +6,11 @@ Today I'd like to touch on the subject
 of agile software development. I've been working in the software
 development industry for almost two decades and as I moved through my
 career agile software development was gaining popularity, up to the
-point where it became just a buzzword for many companies.<br />
+point where it became just a buzzword for many companies.
 Let's start with little bit of a
 history. In the early part my professional career, back in 2001, a
 world away from my development roots in Belarus, a few developers got
-together at a resort in Utah and published the&nbsp;<i><a href="http://agilemanifesto.org/">Manifesto for AgileSoftware Development</a></i>. Concepts contained in that paper
+together at a resort in Utah and published the [Manifesto for AgileSoftware Development](http://agilemanifesto.org/).<!--more--> Concepts contained in that paper
 were considered a revolutionary ideas and initially mostly rejected by
 those who in those dark ages followed the "waterfall"
 process as the most popular approach to software development.
@@ -20,8 +20,8 @@ when computers were not personal, computing time costed a fortune.
 All of that meant that you had to do a lot of things up front, on a
 piece of paper (gasp!) and when satisfied with that paper coding on a
 mainframe began. 
-By late
-90’s as personal computers became massively accessible and
+
+By late 90’s as personal computers became massively accessible and
 developers could experiment without any penalty at their own
 keyboard, day or night,  that type of process no longer make sense.
 Especially when term "lean manufacturing" was gaining a lot
@@ -36,15 +36,15 @@ new demands mean that we had to gain more agility to succeed,
 no matter the industry. Never before was it more clear that it's all
 about your people and interactions among your people, your rare earth
 mines of new ideas and the ones who could overcome the obstacles along the path toward success. In this new world of constant
-change and adaptation the Manifesto was born.<br />
-<br />
+change and adaptation the Manifesto was born.
+
 Fast
- forward&nbsp;20 years, and you can't stop hearing "agile" again and again. 
+ forward20 years, and you can't stop hearing "agile" again and again. 
 It's becoming a buzzword and with that people often trying to transform 
 that word into noun. How about verb? "Do you even agile, bro?". While it
  is common place for English language to transform words overtime. My 
 position is that "agile" as a word is an adjective and transforming it 
-into anything else will change it's original meaning entirely.&nbsp;
+into anything else will change it's original meaning entirely.
 In
  the end, when agile software development is not clearly understood for 
 what it is and it's original meaning is not enforced we get
@@ -102,5 +102,5 @@ the start so that it can become part of the basic culture. Follow
 the Manifesto. Have your team  start with the proper attitude. Ans
 as you do, keep firmly in mind that agile software development is not
 a process, but a mindset.
-<br />
-<br />
+
+

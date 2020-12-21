@@ -8,7 +8,7 @@ version of Android OS I am currently using which is 4.1.2.
 
 Recently I've started to run into an "Insufficient Storage Available" error 
 message on my Android phone. So where does that come from, since I have 
-several GB's of internal storage available, I though to myself, right? 
+several GB's of internal storage available, I though to myself, right?<!--more--> 
 Well that's turn out to be wrong. Apparently all your gigs of internal 
 storage are irrelevant if your phone has "Phone/Device Memory" partition
  on top of "Internal Storage" partition, and in my case it's just 2GB. 
@@ -16,6 +16,7 @@ All applications by default will get installed to that partition.
 Since that problem was very annoying I've started to look into what can be done to avoid it. Here are few steps I found working:
 
 **Step 1 Move stuff to Internal Storage.**
+
 Move all apps which could be moved to Intenal Storage, that will still leave
  some parts of app on "Phone Memory" partition. Go to 
 *Settings->Apps->All*, then order by size.
@@ -55,7 +56,7 @@ and disable apps in *Settings->Apps* menu.
 ![Uninstall updates](/assets/uninstall_updates.png)
 However if you "root" your phone you would be able to uninstall anything, including bloat-ware.
 
-**Step 3 - Clear cache**
+**Step 4 - Clear cache**
 Most apps cache some information to have access to it without costly 
 requests to online resources in order to save battery and decrease data 
 consumption. Overtime that cache grows a lot. To clear cache open up 
@@ -63,7 +64,7 @@ consumption. Overtime that cache grows a lot. To clear cache open up
 button "Clear cache".
 ![Clear cache](/assets/clear_cache.png)
 
-**Step 4 - Clear data.**
+**Step 5 - Clear data.**
 All apps store some data, whether it's your login information or internal 
 databases, same as it is with cache it grows over time. Unfortunately 
 its not easy as it is with cache, sure there is a button for that right 
@@ -75,7 +76,7 @@ that is questionable for app which you are using every day and if you
 are not using them every day then please see Step 2.
 ![Clear data](/assets/clear_data.png)
 
-**Step 5 - Final resort Factory Reset.**
+**Step 6 - Final resort Factory Reset.**
 To clear everything on your phone there is for sure button for that :) 
 It's called Factory Reset and depending on your phone way to access it 
 is different. Down side it will erase absolutely everything from your 

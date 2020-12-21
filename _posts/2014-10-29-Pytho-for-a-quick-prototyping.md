@@ -9,7 +9,7 @@ app is simply organize data output, in other words print lines of data
 in a particular area of the window and some colors to distinguish 
 things. I already have script which I am using to enter data and I am 
 fairly happy with it. Almost forgotten, another requirement that I had 
-back then is app has to be GUI form and work under Linux. 
+back then is app has to be GUI form and work under Linux.<!--more--> 
 
 I've started looking on what will get me up and running as fast as I can, 
 because surely if you want to achieve performance you would choose 
@@ -40,8 +40,7 @@ So here we go, I've started with no Python knowledge what so ever, and
 then glancing through tutorials in 2 hours I have nice GTK+ app just 
 what I was looking for.
 
-In conclusion I could say that 
-it was a lot of fun to learn something totally new and Python is 
+In conclusion I could say that it was a lot of fun to learn something totally new and Python is 
 probably one of the best scripting languages for quick prototyping of 
 GUI applications, it's irreplaceable if you want quickly throw something
  together especially under Linux, it also cross platform, so you could 
