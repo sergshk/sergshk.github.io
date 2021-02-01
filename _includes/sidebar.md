@@ -13,7 +13,7 @@
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
-            <a href="https://social.ssbx.dev/@archit3ct" class="button" style="background: transparent url(/assets/mastodon-button.png) 0 0 no-repeat;">
+            <a rel="me" href="https://social.ssbx.dev/@archit3ct" class="button" style="background: transparent url(/assets/mastodon-button.png) 0 0 no-repeat;">
               <small>Follow me on</small>Mastodon
             </a>
 {% for page in site.page_list %}
