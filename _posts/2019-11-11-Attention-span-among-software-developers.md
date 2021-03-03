@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Taking control back"
+title:  "Attention span among software developers"
 ---
 
 Our attention is one of the most important resources today and attention merchants are fighting to get a piece of it. ![Computer image](/assets/texting-1490691_1280.jpg) There is entire industry designed to get a slice of your time. Which makes it feels like continuous amount of time which we spend on each individual activity diminishes as volume of information we are exposed to on a daily basis increases. Let's have a look at historical development in that area.
