@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-## Thoughts of technology entrepreneur
+## Thoughts of technology entrepreneur.
 
 *Welcome to my blog. I write about technology, business, regulations and everything in between, mostly focusing on how various aspects applicable to software development and cybersecurity.*
 
