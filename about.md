@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "Abouti Sergey Shkundaleu"
+title: "About Sergey Shkundaleu"
 permalink: /about.html
 ---
 
