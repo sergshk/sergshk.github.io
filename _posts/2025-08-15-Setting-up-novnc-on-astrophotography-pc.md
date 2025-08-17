@@ -78,7 +78,7 @@ Final step, kill VNC process, restart opening it for localhost, since we will ha
 ```bash
 vncserver -kill :1
 vncserver :1
-/usr/bin/websockify -D --web=/usr/share/novnc/ --cert=/{folder_where_you_created_cert}/novnc.pem 8080 localhost:5901
+/usr/bin/websockify -D --web=/usr/share/novnc/ --ssl-only --cert=/{folder_where_you_created_cert}/novnc.pem 8080 localhost:5901
 ```
 Now you can access it on the port you've assigned to websockify to listen to in example above port was 8080. Just head to that IP and test that it's working.
 http://{IP_OF_YOUR_MINIPC}:8080/vnc.html
