@@ -67,7 +67,7 @@ vncserver -list
 ```
 You will see something like:
 
-![Screenshot of results execution of vncserver -list command on linux machine](../assets/vnc_list.png)
+![Screenshot of results execution of vncserver -list command on linux machine](/assets/vnc_list.png)
 
 Now it's time to setup novnc itself
 Generate certificate, filling details into interactive prompts, I won't be walking through that part, just command:
